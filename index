@@ -1,11 +1,18 @@
-<html>
-<hade>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Título de mi página</title>
+</head>
 <body>
-<center>
+    <center>
 <marquee deley=300>
 <font color="blue" size="3">
 BIENVENIDO A PROGRAMA 1000 </font> 
 </marquee>
 </center>
+    <p>Este es el contenido visible de mi página web.</p>
 </body>
 </html>
+ yo, no se nada de informtcs
