@@ -1,3 +1,11 @@
-<marquee>
+<html>
+<hade>
+<body>
+<center>
+<marquee deley=300>
 <font color="blue" size="3">
-BIENVENIDO A PROGRAMA 1000 </font> </marquee>
+BIENVENIDO A PROGRAMA 1000 </font> 
+</marquee>
+</center>
+</body>
+</html>
